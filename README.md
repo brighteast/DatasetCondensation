@@ -10,4 +10,4 @@ In this notebook I will try to implement on of the algorithm to achieve this usi
 
 # Acknowledgments
 This This notebook is my implementaion of <a href = "https://arxiv.org/abs/2006.05929">Dataset Condensation with Gradient Matching</a> 
-All credit goes to the authors of <a href = "https://arxiv.org/abs/2006.05929">Dataset Condensation with Gradient Matching</a> , Bo Zhao, Konda Reddy Mopuri, Hakan Bilen
+All credit goes to the authors of <a href = "https://arxiv.org/abs/2006.05929">Dataset Condensation with Gradient Matching</a>: Bo Zhao, Konda Reddy Mopuri, Hakan Bilen
